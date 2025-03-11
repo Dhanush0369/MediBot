@@ -4,6 +4,13 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+streamlit = "*"
+langchain = "*"
+langchain-huggingface = "*"
+langchain-community = "*"
+sentence-transformers = "*"
+faiss-cpu = "*"
+
 
 [dev-packages]
 
